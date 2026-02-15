@@ -1,9 +1,5 @@
-Here is a **hackathon-winning, impactful README.md** you can directly replace in your project:
-
----
-
 ```markdown
-# 🇮🇳 CreatorCopilot Bharat 🚀  
+# CreatorCopilot Bharat 🚀  
 ### AI-Powered Regional Content Multiplier for India
 
 > Transform one piece of content into multilingual, multi-platform, optimized digital assets — instantly.
