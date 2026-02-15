@@ -195,5 +195,3 @@ It’s Bharat-first.
 
 ```
 
-Tell me your next move 🔥
-```
